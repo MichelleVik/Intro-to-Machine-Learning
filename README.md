@@ -2,11 +2,12 @@
 
 ![usf](./img/all/bridge_usf.png)
 
-### Intro to Machine Learning - Professional certificate course by the Data Institute (University of San Francisco)
+### Intro to Machine Learning
+**Professional certificate course by the Data Institute (University of San Francisco)**
 
 | **Class** | **Date**         |                       **Title**                       | **Code** |
 |:---------:|------------------|:-----------------------------------------------------:|:--------:|
-|     1     | February 22,2023 | Welcome and setup                                     |          |
+|     1     | February 22, 2023 | Welcome and setup                                     |          |
 |     2     | March 1, 2023    | Feature Engineering and model setup                   |          |
 |     3     | March 8, 2023    | Intro to regression models                            |          |
 |     4     | March 15, 2023   | Intro to classification models                        |          |
