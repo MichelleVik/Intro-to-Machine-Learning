@@ -5,9 +5,12 @@
 ### Intro to Machine Learning
 **Professional certificate course by the Data Institute (University of San Francisco)**
 
-| **Class** | **Date**         |                       **Title**                       | **Code** |
+Instructor: [Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/)
+Email: vmarquez2 (at) usfca (dot) edu
+
+| **Week** | **Date**         |                       **Title**                       | **Slides/Code** |
 |:---------:|------------------|:-----------------------------------------------------:|:--------:|
-|     1     | February 22, 2023 | Welcome and setup                                     |          |
+|     1     | February 22, 2023 | Welcome and setup                                     |   [Link](https://github.com/vivianamarquez/Intro-to-Machine-Learning/blob/main/1_welcome_setup/Welcome.ipynb)       |
 |     2     | March 1, 2023    | Feature Engineering and model setup                   |          |
 |     3     | March 8, 2023    | Intro to regression models                            |          |
 |     4     | March 15, 2023   | Intro to classification models                        |          |
