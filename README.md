@@ -5,7 +5,7 @@
 ### Intro to Machine Learning
 **Professional certificate course by the Data Institute (University of San Francisco)**
 
-Instructor: [Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/)
+Instructor: [Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/)<br>
 Email: vmarquez2 (at) usfca (dot) edu
 
 | **Week** | **Date**         |                       **Title**                       | **Slides/Code** |
