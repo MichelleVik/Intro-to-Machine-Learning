@@ -14,6 +14,6 @@ Email: vmarquez2 (at) usfca (dot) edu
 |     2     |   March 1, 2023  | Feature Engineering                    |    [Link](https://github.com/vivianamarquez/Intro-to-Machine-Learning/blob/main/2_FE/FE.ipynb)      |
 |     3     |   March 8, 2023  | Intro to regression models                            |    [Link](https://github.com/vivianamarquez/Intro-to-Machine-Learning/blob/main/3_linear_regression/linear_regression.ipynb)      |
 |     4     |  March 15, 2023  | Intro to classification models                        |     [Link](https://github.com/vivianamarquez/Intro-to-Machine-Learning/blob/main/4_classification/classification.ipynb)     |
-|     5     |  March 22, 2023  | Non-parametric models and ensemble models             |          |
+|     5     |  March 22, 2023  | Non-parametric models and ensemble models             |    [Link](https://github.com/vivianamarquez/Intro-to-Machine-Learning/blob/main/5_non-parametric_models/knn.ipynb)      |
 |     6     |  March 29, 2023  | Model optimization and model interpretation           |          |
 |     7     |   April 5, 2023  | Unsupervised learning and farewell (student requests) |          |  
